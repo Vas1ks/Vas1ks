@@ -1,0 +1,10 @@
+.infa{
+    text-align: center;
+}
+
+a {
+    color:black; /* Цвет ссылок */
+   }
+a:visited {
+    color:black; /* Цвет посещенных ссылок */
+}
